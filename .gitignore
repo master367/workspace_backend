@@ -46,3 +46,17 @@ Thumbs.db
 
 # Alembic
 migrations/versions/__pycache__
+
+# Temporary Test Scripts
+test_db.py
+verify_api.py
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.pyo
