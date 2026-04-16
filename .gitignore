@@ -59,4 +59,5 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
-*.pyo
+# Other
+TEAM_WORKSPACE_BACKEND_TZ.md.md
