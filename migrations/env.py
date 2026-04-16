@@ -71,5 +71,4 @@ def run_migrations() -> None:
         asyncio.run(run_migrations_online())
 
 
-if __name__ == "migrations.env" or __name__ == "__main__":
-    run_migrations()
+run_migrations()
